@@ -1,2 +1,2 @@
 # tenz
-simple game to sharp my react skills
+simple game to sharp my react skills😎
